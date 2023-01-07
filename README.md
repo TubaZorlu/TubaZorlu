@@ -1,7 +1,7 @@
 ### <div align="center"> Hi👋, I'm Tuba </div>  
 ## <div align="center"> A Software Developer </div>  
   
-- 🌱 I’m currently learning .NET Core
+- 🌱  I’m currently learning Docker , Microservices
 
 <br/>  
 
